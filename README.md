@@ -12,7 +12,6 @@ GameHub is a video game discovery web app that helps you find new and interestin
 - Connect your React apps to the backend
 - Deploy your React apps
 - Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
+
 
 
