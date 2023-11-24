@@ -12,4 +12,4 @@ const CriticScore = ({ score }: Props) => {
   )
 }
 
-export default CriticScore
+export default CriticScore;
